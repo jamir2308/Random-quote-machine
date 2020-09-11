@@ -1,10 +1,12 @@
 import React from "react";
-import CicloDeVida from "./components/CicloDeVida";
+import { Footer } from "./components/Footer";
+import { Quotes } from "./components/Quotes";
 
 function App() {
   return (
     <div className="App">
-      <CicloDeVida />
+      <Quotes />
+      <Footer />
     </div>
   );
 }
