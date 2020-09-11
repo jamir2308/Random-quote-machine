@@ -2,13 +2,19 @@ body {
   display: grid;
   background-color: lightgoldenrodyellow;
 }
+h1 {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: brown;
+}
 
 #quote-box {
   display: grid;
   border: solid 0.5px gainsboro;
   border-radius: 6px;
   margin: 8%;
-  height: 400px;
+  margin-top: 0px;
+  height: 300px;
   color: aliceblue;
 }
 

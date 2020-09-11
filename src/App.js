@@ -5,6 +5,7 @@ import { Quotes } from "./components/Quotes";
 function App() {
   return (
     <div className="App">
+      <h1>Random Quote Machine</h1>
       <Quotes />
       <Footer />
     </div>
